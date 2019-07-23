@@ -8,7 +8,6 @@ This repo is providing Clincal Benchmark tasks drived from TCGA (The Cancer Geno
 ```
 cd meta-dataloader
 pip install -e .
-
 ```
 
 ## Starter files
