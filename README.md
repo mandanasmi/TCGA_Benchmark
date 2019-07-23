@@ -5,8 +5,10 @@ This repo is providing Clincal Benchmark tasks drived from TCGA (The Cancer Geno
 
 ## Installation
 ## `torchmeta` package
-```cd meta-dataloader
-	pip install -e .
+```
+cd meta-dataloader
+pip install -e .
+
 ```
 
 ## Starter files
@@ -54,5 +56,5 @@ The following plots show the performance of each model over all tasks and for 10
 
 
 <p align="center">
-  <img src="/readme_src/model_comparison.png" width="500" title="hover text">
+  <img src="/readme_src/model_comparison.png" width="1000" title="hover text">
 </p>
