@@ -41,7 +41,7 @@ This could be an interesting hypothesis that this difference in LR and MLP can a
 We run the baselines over all tasks for 10 seeds and measured the average of accuracy, the following figure illustrate the result. <br/>
 
 <p align="center">
-  <img src="/readme_src/all_models_results.png" width="500" title="hover text">
+  <img src="/readme_src/all_models_results.png" width="800" title="hover text">
 </p>
 
 ## How to use?
@@ -56,5 +56,5 @@ The following plots show the performance of each model over all tasks and for 10
 
 
 <p align="center">
-  <img src="/readme_src/model_comparison.png" width="1000" title="hover text">
+  <img src="/readme_src/model_comparison.png" width="500" title="hover text">
 </p>
