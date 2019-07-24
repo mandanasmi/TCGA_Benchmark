@@ -16,7 +16,7 @@ To run the experiments you can run the Majority, Logisitic Regression and MLP fu
 
 ## Task Definition 
 
-Tasks are a combination of clinical features and cancer study. An example of a task would be predicting gender, age, alcohol document history, family history of stomach cancer, the code of the disease and other clinical attributes for different types of patients based on their gene expressions. There are 39 types of cancers in total but we only used 25 ones of them.  A simple example of a task is (‘gender’, BRCA) where we’re predicting gender for breast cancer patients. The list of all valid tasks (considering that the minimum number of samples is 10) is provided under result directory names `list_of_valid_tasks`
+Tasks are a combination of clinical features and cancer study. An example of a task would be predicting gender, age, alcohol document history, family history of stomach cancer, the code of the disease and other clinical attributes for different types of patients based on their gene expressions. There are 39 types of cancers in total but we only used 25 ones of them.  A simple example of a task is (‘gender’, BRCA) where we’re predicting gender for breast cancer patients. The list of all valid tasks (considering that the minimum number of samples is 10) is provided under result directory named `list_of_valid_tasks`
 
 There are 121 clinical tasks. (44  clinical attributes and 25  cancer studies)
 
