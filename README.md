@@ -40,7 +40,7 @@ This could be an interesting hypothesis that this difference in LR and MLP can a
 We run the baselines over all tasks for 10 seeds and measured the average of accuracy, the following figure illustrate the result. <br/>
 
 <p align="center">
-  <img src="/readme_src/results_all_model.png.png" width="1200" hight="400" title="hover text">
+  <img src="/readme_src/results_all_model.png" width="1200" hight="400" title="hover text">
 </p>
 
 ## How to use?
