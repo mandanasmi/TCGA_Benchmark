@@ -4,15 +4,10 @@ TCGA Benchmark Tasks for Clinical Attribute Prediction based on Genetics
 This repo is providing Clincal Benchmark tasks drived from TCGA (The Cancer Genome Atlas Program Dataset). 
 
 ## Installation
-## `torchmeta` package
-```
-cd meta-dataloader
-pip install -e .
-```
 
 ## Starter files
 
-To run the experiments you can run the Majority, Logisitic Regression and MLP function in tcga_benchmark notebook. 
+To run the experiments you can run the Majority, Logisitic Regression and MLP function in `tcga_benchmark` notebook. 
 
 ## Task Definition 
 
