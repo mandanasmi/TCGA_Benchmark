@@ -1,5 +1,5 @@
 # TCGA_Benchmark
-TCGA Benchmark Tasks for Clinical Attribute Prediction based on Genetics 
+TCGA Benchmark Tasks for Clinical Attribute Prediction based on Gene expression data 
 
 This repo is providing Clincal Benchmark tasks drived from TCGA (The Cancer Genome Atlas Program Dataset). 
 
