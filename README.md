@@ -53,5 +53,5 @@ The following plots show the performance of each model over all tasks and for 10
   <img src="/results/model_comparison.png" width="500" title="hover text">
 </p>
 
-Here is the link to the [Poster](https://docs.google.com/drawings/d/1xfuK7bDSC6enxo0984zZ8i2aywpw_cUqQ8NBIoFywOg/edit?usp=sharing).
+Here is the link to the [Poster](https://drive.google.com/file/d/1DeOSek1SF38KIzDzSqTSBSiBsE2AK-GN/view?usp=sharing).
 
