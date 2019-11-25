@@ -15,13 +15,15 @@ from genegraphconv.data.gene_graphs import StringDBGraph, HetIOGraph, FunCoupGra
 graph_initializer_list = [StringDBGraph, HetIOGraph, FunCoupGraph, HumanNetV2Graph, GeneManiaGraph, RegNetGraph]
 graph_names_list = ["stringdb", "hetio", "funcoup", "humannet", "genemania", "regnet"]
 
-graph_index = 1  # Chose a graph in the list ny its index
+graph_index = 0  # Chose a graph in the list ny its index
+
+# for graph_index in range(6):
 
 ########################################################################################################################
 # Evaluate simple classification pipeline on a specific task
 ########################################################################################################################
 
-task = meta_dataloader.TCGA.TCGATask(('PAM50Call_RNAseq', 'BRCA'))
+task = meta_dataloader.TCGA.TCGATask(('PAM50Call_RNAseq', 'BRCA'))  # ('_EVENT', 'LUNG'))
 
 ########################################################################################################################
 # Load a graph, get laplacian and data and get a consistent column ordering
@@ -77,9 +79,9 @@ class LogisticRegression(torch.nn.Module):
 
 
 batch_size = 64
-epochs = 200
-Lambda = 0.01
-learning_rate = 0.0001
+epochs = 70
+Lambda = 1
+learning_rate = 0.00001
 
 model = LogisticRegression(X.shape[1], 1)
 criterion = torch.nn.BCEWithLogitsLoss()
