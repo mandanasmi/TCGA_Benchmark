@@ -6,6 +6,7 @@
 .idea
 *.out
 exps/
+results
 
 # Build and Release Folders
 bin-debug/
