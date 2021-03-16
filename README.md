@@ -48,19 +48,19 @@ There are 121 clinical tasks. (44  clinical attributes and 25  cancer studies)
 * **OV   (TCGA Ovarian Cancer)**:
     Ovarian cancer is a type of cancer that occurs in the ovaries. The female reproductive system contains two ovaries, one on each side of the uterus. The ovaries make hormones estrogen and progesterone as well as ova.
 * **PAAD (TCGA Pancreatic Cancer)**: Pancreatic cancer begins in the tissues of your pancreas. The pancreas produces enzymes that help digestion and makes hormones that help manage blood sugar.
-    * **PCPG (TCGA Pheochromocytoma \& Paraganglioma)**: These are rare tumors that come from the same type of tissue. Paraganglioma starts in nerve tissues in the adrenal glands and near certain blood vessels and nerves. Paragangliomas that form in the adrenal glands are called pheochromocytomas.
-   * **PRAD (TCGA Prostate Cancer)**: Prostate cancer is a type of cancer that occurs in the prostate. This is one of the most common cancers among men.
-   * **READ (TCGA Rectal Cancer)**: This cancer occurs in the rectum that is the last part of the large intestine.
-    * **SARC (TCGA Sarcoma)**: Soft tissue sarcoma is a rare type of cancer that occurs in the tissues that connect, support and surround other body structures. This can contain nerves, muscle, blood vessels, fat, tendons and the lining of the joints.
-   * **SKCM (TCGA Melanoma)**: Melanoma, the most serious type of skin cancer, develops in the cells called melanocytes that make melanin which is the pigment gives the skin its color.
-    * **STAD (TCGA Stomach Cancer)**: Stomach cancer usually begins in the mucus-producing cells that line the stomach.
-    * **TCGT (TCGA Testicular Cancer)**: Testicular cancer occurs in the testicles. The testicles release male sex hormones and sperm for reproduction.
-    * **THCA (TCGA Thyroid Cancer)**: Thyroid cancer occurs in the cells of the thyroid. The thyroid makes hormones that regulate blood pressure, heart rate, body temperature, and weight.
-   * **THYM (TCGA Thymoma)**: Thymoma and thymic carcinoma are diseases in which cancer cells form on the outside surface of the thymus. The thymus is an organ in the neck that makes T-cells for the immune system. 
-   * **UCEC (TCGA Endometrioid Cancer)**: Endometrial cancer occurs in the cells that form the inner layer of the uterus (endometrium) and is sometimes called uterine cancer. Other types of cancer can form in the uterus, including uterine sarcoma, but they are much less common than endometrial cancer.
-    * **UCS (TCGA Uterine Carcinosarcoma)**:  This type of cancer starts in the inner layer of the tissue lining the uterus, while sarcoma begins in the outer layer of muscle of the uterus.
+* **PCPG (TCGA Pheochromocytoma \& Paraganglioma)**: These are rare tumors that come from the same type of tissue. Paraganglioma starts in nerve tissues in the adrenal glands and near certain blood vessels and nerves. Paragangliomas that form in the adrenal glands are called pheochromocytomas.
+* **PRAD (TCGA Prostate Cancer)**: Prostate cancer is a type of cancer that occurs in the prostate. This is one of the most common cancers among men.
+* **READ (TCGA Rectal Cancer)**: This cancer occurs in the rectum that is the last part of the large intestine.
+* **SARC (TCGA Sarcoma)**: Soft tissue sarcoma is a rare type of cancer that occurs in the tissues that connect, support and surround other body structures. This can contain nerves, muscle, blood vessels, fat, tendons and the lining of the joints.
+* **SKCM (TCGA Melanoma)**: Melanoma, the most serious type of skin cancer, develops in the cells called melanocytes that make melanin which is the pigment gives the skin its color.
+* **STAD (TCGA Stomach Cancer)**: Stomach cancer usually begins in the mucus-producing cells that line the stomach.
+* **TCGT (TCGA Testicular Cancer)**: Testicular cancer occurs in the testicles. The testicles release male sex hormones and sperm for reproduction.
+* **THCA (TCGA Thyroid Cancer)**: Thyroid cancer occurs in the cells of the thyroid. The thyroid makes hormones that regulate blood pressure, heart rate, body temperature, and weight.
+* **THYM (TCGA Thymoma)**: Thymoma and thymic carcinoma are diseases in which cancer cells form on the outside surface of the thymus. The thymus is an organ in the neck that makes T-cells for the immune system. 
+* **UCEC (TCGA Endometrioid Cancer)**: Endometrial cancer occurs in the cells that form the inner layer of the uterus (endometrium) and is sometimes called uterine cancer. Other types of cancer can form in the uterus, including uterine sarcoma, but they are much less common than endometrial cancer.
+* **UCS (TCGA Uterine Carcinosarcoma)**:  This type of cancer starts in the inner layer of the tissue lining the uterus, while sarcoma begins in the outer layer of muscle of the uterus.
     
-    * **UVM (TCGA Ocular melanomas) 88: 
+* **UVM (TCGA Ocular melanomas) 88: 
     As explained in TCGA Melanoma, this is a type of cancer that develops in the cells that produce melanin. The eyes also have cells that make melanin and can develop melanoma. Eye melanoma is also called ocular melanoma.
 ## Experiments 
 
