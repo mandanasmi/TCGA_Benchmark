@@ -70,7 +70,7 @@ We studied the performance of three supervised learning model on  all 121 clinic
 2- Logistic Regression (LR) <br/>
 3- Multi-Layer Percptron (MLP) <br/>
 
-**Experiments setting**:
+**Experiment setting**
 
 We split each dataset to a train set of size 50 and a test size equal to 100 samples.
 
