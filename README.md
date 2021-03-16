@@ -60,8 +60,8 @@ There are 121 clinical tasks. (44  clinical attributes and 25  cancer studies)
 * **UCEC (TCGA Endometrioid Cancer)**: Endometrial cancer occurs in the cells that form the inner layer of the uterus (endometrium) and is sometimes called uterine cancer. Other types of cancer can form in the uterus, including uterine sarcoma, but they are much less common than endometrial cancer.
 * **UCS (TCGA Uterine Carcinosarcoma)**:  This type of cancer starts in the inner layer of the tissue lining the uterus, while sarcoma begins in the outer layer of muscle of the uterus.
     
-* **UVM (TCGA Ocular melanomas) 88: 
-    As explained in TCGA Melanoma, this is a type of cancer that develops in the cells that produce melanin. The eyes also have cells that make melanin and can develop melanoma. Eye melanoma is also called ocular melanoma.
+* **UVM (TCGA Ocular melanomas)**: 
+As explained in TCGA Melanoma, this is a type of cancer that develops in the cells that produce melanin. The eyes also have cells that make melanin and can develop melanoma. Eye melanoma is also called ocular melanoma.
 ## Experiments 
 
 We studied the performance of three supervised learning model on  all 121 clinical tasks, we evaluated the performance of each task by using the following models:
